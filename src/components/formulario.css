@@ -1,0 +1,32 @@
+.formulario{
+    text-align: left;
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 2px 2px 30px -10px rgba(0, 0, 0, 0.1);
+}
+.contenedor-preguntas{
+    border: 1px solid #000;
+    border-radius: 6px;
+    padding: 10px 30px;
+    margin: 10px 0;
+}
+.box-check span{
+    gap: 6px;
+    width: 100px;
+}
+.box-check .field-radiobutton{
+    margin-right: 15px;
+}
+.box-check .field-checkbox{
+    margin-right: 15px;
+}
+.box-check span label{
+    margin-left: 5px;
+    align-items: center;
+}
+.combo-box{
+    width: 100%;
+}
+.btn-enviar{
+    margin: 15px 0;
+}
